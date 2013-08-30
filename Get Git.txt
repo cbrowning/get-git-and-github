@@ -35,3 +35,5 @@ Command prompt cd to respository >Carol>Testing 1, 2, 3
 Follow the commands to push an existing repository
 	git remote add origin https://github.com/cbrowning/get-git-and-github.git
 	git push –u origin master
+
+push in git gui uploads new commit to github.
