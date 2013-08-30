@@ -1,0 +1,16 @@
+Get Git
+Git is a source code management system.  Github is a host site for hosting git repositories.
+(Google code, github, etc. have issue trackers and link commits to issues)
+git-scm.com 
+documentation
+       read chapters 1, 2, 3, are essential
+       top left click on downloads
+       	download for windows
+       install all of the standard features only – i.e. just click Next  
+       	EXCEPT instead of “Use Git Bash only” select “Run Git form the Windows Command Prompt”
+       (Git Bash is linux simulator that runs in windows  - gitbash is  a wrapper around Cygwin that has git tools installed.)
+
+After installation:
+Open Git GUI the start menu
+Create a new respository Testing 1, 2, 3
+Save this file in Carol>Testing 1, 2, 3
