@@ -13,4 +13,17 @@ documentation
 After installation:
 Open Git GUI the start menu
 Create a new respository Testing 1, 2, 3
-Save this file in Carol>Testing 1, 2, 3
+Save this file as .txt in Carol>Testing 1, 2, 3
+
+Rescan in Git GUI and see the file.
+
+Have to stage (commit file menu, stage to commit) and then write message and hit commit button.
+
+
+Problem: Who am I?
+
+Command prompt
+>git config --global user.name “Dr. Browning”
+>git config --global user.email “cbrowning@drury.edu”
+
+Repository menu, visualize option.
